@@ -45,7 +45,7 @@ notes-app/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/notes-app.git
+https://github.com/vijayshahtech02/React.js_Simple-Notes-App.git
 ```
 
 ### 2. Navigate to project folder
